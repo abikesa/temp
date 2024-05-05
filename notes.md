@@ -759,3 +759,73 @@ J: I can stop recording, and then.
 - Prayers
    - Grants
    - Complete my PhD    
+
+# 05/04/24
+
+### S
+- Grateful: Lauren is settling into NYC
+   - Pray for fashion publication internship
+   - Has made friends and is looking for another apartment to move to
+   - Continue to pray for provision: double rent (Virginia & New York)
+- Passed board exams for life insurance studies
+   - Licensed in Virginia to advise on life insurance and sell products
+- Still praying for country-director positions, my dream
+   - Be able to work in Africa
+   - And be physically closer to mummy and daddy to support them
+- Very grateful for good health
+- Kevin passed his GMAT and will start his Masters degree this fall (While working)
+- Financial obligations have increased and continue to pray for a breakthrough
+-  
+### P
+- God blessed Dorothy's journey to the US
+- Submitted entire thesis and have received comments
+   - Working on revisions
+- The issue of salary corrections isn't yet done
+   - Put everything in writing so far, all the formal stuff
+   - Leaving all the rest to God
+- Believing in God for what is next careerwise
+- Our Bus and cashcow is now back and can contribute to the bazeyi
+- All the children are back from school
+   - Bills have shotup but of course its good to have them around
+- Nicole completely recovered from her fungal infection
+- Lisa has lost weight perhaps due to peer pressure at school?
+- Thank God for the PhD Scholarship and clearing fees for the 4th year!!
+- D's fees are fully paid, accommodation is booked
+   - He'll be starting at Strathmore in June
+- Pray to submit thesis by end of May
+ 
+### J
+- Thanksgiving
+   - Work is going on well
+   - I'm in good health
+   - Exercizing once a week, every saturday
+   - Girls continue to do well in school
+   - Bria is sitting her Cambridge A-levels (the S5 ones)
+      - She's improved in Economics
+   - Brenda: continue praying for her strength and fortitude in a distant land (Sierra Leone)
+- Grateful for the job with USAID
+   - May the lords will be done
+   - There may be opportunities out there that I've appled to including African Development Bank
+      - Such opportunities help with subsidies with school fees
+   - TCN: third country national (With USAID), with 5-year contracts (equivalent to 15y salary of typical standard job)
+- Mummy
+   - Discuss possible surgery with Dr. Sekimpi
+   - Also explore whether the drug Ozempik may benefit her 
+### D
+   - Health and strength
+   - Thankful for little tiny discoveries like the joy of trotting without airpods
+   - Enjoying music more than ever before
+      - Gospel Music University has helped me decode the things that have moved my spirit the most: Marvin Sapp
+   - Continue to thank God for you guys: mummy, daddy, and siblings
+      - Thankful for the opportunity to have them visit
+      - And to travel with them 
+   - Prayers
+      - Complete and defend my thesis by Oct 2024
+      - Sell a potential business idea to department of epidemiology, later to surgery, and potentially to other institutions
+         - Leveraging technological platform and AI to improve the efficiency of our efforts towards our mission goals
+            - Patient care
+            - Research
+            - Teaching 
+      - Get time and focus to write and submit successful grants
+      -    
+
