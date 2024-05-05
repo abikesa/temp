@@ -1,3 +1,4 @@
+```html
 <!DOCTYPE html>
 <html lang="en-US">
   <head>
@@ -52,3 +53,4 @@
     <script>anchors.add();</script>
   </body>
 </html>
+```
