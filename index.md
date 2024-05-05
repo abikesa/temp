@@ -1,8 +1,54 @@
-# .
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>. | temp</title>
+<meta name="generator" content="Jekyll v3.9.5" />
+<meta property="og:title" content="." />
+<meta property="og:locale" content="en_US" />
+<link rel="canonical" href="https://abikesa.github.io/temp/" />
+<meta property="og:url" content="https://abikesa.github.io/temp/" />
+<meta property="og:site_name" content="temp" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="." />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebSite","headline":".","name":"temp","url":"https://abikesa.github.io/temp/"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <link rel="stylesheet" href="/temp/assets/css/style.css?v=fa96ee332742c0270612e3f9d4cd53ed5cc52d5b">
+    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
+
+<!-- Setup Google Analytics -->
 
 
 
+<!-- You can set your favicon here -->
+<!-- link rel="shortcut icon" type="image/x-icon" href="/temp/favicon.ico" -->
 
-[.](notes.md)
+<!-- end custom head snippets -->
 
-[.](itinerary.md)
+  </head>
+  <body>
+    <div class="container-lg px-3 my-5 markdown-body">
+      
+      <h1><a href="https://abikesa.github.io/Itinerary/">temp</a></h1>
+      
+
+      <h1>.</h1>
+
+<p><a href="/temp/notes.html">.</a></p>
+
+<p><a href="/temp/itinerary.html">.</a></p>
+
+
+      
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
+    <script>anchors.add();</script>
+  </body>
+</html>
