@@ -1,3 +1,6 @@
+![](delta_options.png)
+![](southwest_options.png)
+
 #                                                                                   
 
 ## 05/03/2021
