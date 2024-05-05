@@ -12,3 +12,6 @@
 - ? Graduation (workout schedule)
 # 05/27/24 - 05/30/24
 # 05/30/24 - Baltimore 
+
+[](mummy.pdf)
+[](daddy.pdf)
